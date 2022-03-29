@@ -92,7 +92,7 @@ export default {
         }
         .user_name_input, .user_password_input
         {
-            border: solid 1px rgba(0, 0, 0, 0.10);
+            border: solid .01rem rgba(0, 0, 0, 0.10);
             line-height: .48rem;
             margin: 0 .4rem .16rem .4rem;
             background: #F9F9F9;

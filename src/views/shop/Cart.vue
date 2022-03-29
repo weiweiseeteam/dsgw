@@ -218,7 +218,7 @@ const allChecked = computed(() => {
   &_header {
     display: flex;
     line-height: .52rem;
-    border-bottom: 1px solid #f1f1f1;
+    border-bottom: .01rem solid #f1f1f1;
     font-size: .14rem;
     color: #333;
     &_all {

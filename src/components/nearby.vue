@@ -75,6 +75,6 @@ export default {
         }
     }
     .shop_content--bordered{
-      border-bottom: solid 1px $content-bgColor;
+      border-bottom: solid .01rem $content-bgColor;
     }
 </style>

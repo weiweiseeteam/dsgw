@@ -38,7 +38,7 @@ console.log(props.currentIndex)
   position: absolute;
   left: 0;
   bottom: 0;
-  border-top: #F1F1F1 solid 1px;
+  border-top: #F1F1F1 solid .01rem;
   padding: 0 .18rem;
   box-sizing: border-box;
   display: flex;
